@@ -13,3 +13,6 @@ https://drive.google.com/file/d/1326hqGTJzkXbgAdwmhTt2tJJ0128f7ZS/view?usp=shari
 
 3rd redis abimanyu
 https://drive.google.com/file/d/1DSl7pY10bbpsY7up9k1eM_F6vEnrRntJ/view?usp=sharing
+
+pdf:
+https://drive.google.com/file/d/1sVbLyNMUQj9B15iwdMm9rJu3GUYfKUDd/view?usp=sharing
